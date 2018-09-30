@@ -29,5 +29,5 @@ Among present classes, these are some of the hardest and easiest ECE classes, wi
 | ECE 210: Analog Signal Processing                | 652.7759941        | 2.088134569 |
 
 
-
-![](https://i.postimg.cc/52qGFcrZ/Student_Competitiveness-1.png)
+We also took a look at the competitive rating by professor:
+![](https://i.postimg.cc/KvbKFV61/Class_Competitiveness_Rating_by_Professor.png)
