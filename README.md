@@ -1,4 +1,4 @@
-# Professor's Pet
+# Professor's Pet: You *are* just a number
 #### PYGHACK 2018
 
 ##### Introduction
@@ -7,6 +7,21 @@ Professor's Pet is a numerical model that will be able to rank classes within an
 Our algorithm is a adaption from the chess ELO rating, as we matched classes between each other as well as students against each other. We call our metric the competitiveness rating.
 
 ##### Our Algorithm
+
+###### Input Data Models:
+
+| class      | student    | studentclassentry |
+|------------|------------|-------------------|
+| `class_name` | `student_id` | `student_id`        |
+| `elo`        | `elo`        | `class_name`        |
+| `gpa`        |            | `gpa`               |
+
+###### Purpose:
+A general purpose algorithm that calculates the competitiveness index, a pseudo-elo based score that
+objectively determines the difficulty of a class or professor or the ability of a student to perform in their respective major.
+
+![yup](https://i.imgur.com/5eVFFHl.png)
+![steps](https://i.imgur.com/gDF3w2f.png)
 
 
 ##### Results
